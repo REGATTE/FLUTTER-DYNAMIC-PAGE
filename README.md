@@ -19,3 +19,6 @@ in logged in, it directs you to home page
                                    |                      |
                                    |                      |
                                HOME PAGE  -------<--------
+
+
+dont forget to add your firebase files for both andoroid and ios, before running the app.
