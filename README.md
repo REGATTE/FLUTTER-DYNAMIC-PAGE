@@ -22,3 +22,6 @@ in logged in, it directs you to home page
 
 
 dont forget to add your firebase files for both andoroid and ios, before running the app.
+
+firebase.google.com
+
