@@ -25,3 +25,4 @@ dont forget to add your firebase files for both andoroid and ios, before running
 
 firebase.google.com
 
+if you need help, feel free to ping me up on ashok_a370@icloud.com
